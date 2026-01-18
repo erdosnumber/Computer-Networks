@@ -1,1 +1,1 @@
-Repo for Parallel Programming assignments
+Repo for Computer Network assignments
