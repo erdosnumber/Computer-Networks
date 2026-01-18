@@ -1,1 +1,1 @@
-Repo for Computer Network assignments
+Repo for Computer Networks assignments
